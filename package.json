@@ -1,5 +1,5 @@
 {
-  "name": "dali-lights",
+  "name": "subreddit-to-mp3s",
   "version": "0.0.0",
   "description": "",
   "main": "web.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@heroku.com:dali-lights.git "
+    "url": "git@github.com:harquail/subredditTomp3s.git"
   },
   "author": "",
   "license": "ISC",
