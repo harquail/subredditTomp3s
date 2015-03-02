@@ -1,3 +1,3 @@
-slack-hue
+subredditTomp3s
 =========
-Run using the /lights command in slack
+Scrapes a subreddit for youtube videos and converts them to an mp3
